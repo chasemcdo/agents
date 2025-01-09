@@ -1,5 +1,11 @@
 # livekit-plugins-azure
 
+## 0.5.3
+
+### Patch Changes
+
+- reduces initial delay before model retries - [#1337](https://github.com/livekit/agents/pull/1337) ([@davidzhao](https://github.com/davidzhao))
+
 ## 0.5.2
 
 ### Patch Changes
